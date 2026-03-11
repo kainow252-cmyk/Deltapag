@@ -28,5 +28,8 @@
     "pagamento"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "wrangler": "^4.72.0"
+  }
 }
