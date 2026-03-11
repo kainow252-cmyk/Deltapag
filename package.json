@@ -1,0 +1,27 @@
+{
+  "name": "deltapag-checkout",
+  "version": "1.0.0",
+  "description": "Sistema de pagamento com assinaturas DeltaPag",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^16.1.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "typescript": "^5.7.3",
+    "@types/react": "^19.0.12",
+    "@types/node": "^22.13.3",
+    "@types/react-dom": "^19.0.6",
+    "tailwindcss": "^4.1.1",
+    "postcss": "^8.5.2",
+    "autoprefixer": "^10.4.21"
+  },
+  "devDependencies": {},
+  "keywords": ["deltapag", "checkout", "assinaturas", "pagamento"],
+  "author": "",
+  "license": "ISC"
+}
